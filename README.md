@@ -28,4 +28,4 @@ Right now I’m focused on:
 - Making my projects “production-looking” – diagrams, docs, monitoring, automation
 
 If you’re hiring for **junior DevOps / Cloud / Platform** and don’t mind someone who’s still learning but very hungry, feel free to reach out:
-`kamjunming [at] gmail.com`
+kamjunming@gmail.com

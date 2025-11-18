@@ -17,7 +17,8 @@ Right now I’m focused on:
 
 - **BTO Housing Decision Tool**  
   Web app that helps Singapore users compare **BTO vs Resale** options using official housing data, affordability logic and trade-offs (price vs waiting time).  
-  → [https://github.com/RiceCookerNFT/**YOUR-BTO-REPO-NAME**](https://github.com/RiceCookerNFT/bto-decision)
+  → https://github.com/RiceCookerNFT/bto-decision
+  Link: https://bto-decision.vercel.app/
 
 (Automation toolkit repo coming soon.)
 

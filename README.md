@@ -6,18 +6,19 @@ Right now I’m focused on:
 
 - 🏗️ **Infrastructure-as-Code** with Terraform (AWS VPC, subnets, NAT, Flow Logs)
 - 🐳 **Containerisation & DevOps** – Docker, GitHub Actions, CI/CD
-- 🌐 **Full-stack projects** – Next.js frontend + Python backends
+- 🌐 **Full-stack projects** – Next.js frontend + Python/FastAPI backends
 - 🧪 **Automation** – Python + Playwright scripts to remove manual testing
 
 ## 🔧 Highlight Projects
 
 - **Secure AWS VPC (Terraform)**  
-  Terraform module that provisions a VPC in `ap-southeast-1` with public/private subnets, IGW, optional NAT Gateway, and VPC Flow Logs.  
-  → [terraform-vpc-secure](https://github.com/RiceCookerNFT/terraform-vpc-secure)
+  Terraform project that provisions a VPC in `ap-southeast-1` with public/private subnets, IGW, optional NAT Gateway, and VPC Flow Logs.  
+  → https://github.com/RiceCookerNFT/terraform-vpc-secure
 
-- **Pulseboard / Housing Decision Tool (WIP)**  
-  Next.js app that will power a **BTO vs Resale housing decision helper** for Singapore users. Backend will be a Python API + Postgres, deployed on AWS with Terraform.  
-  → [pulseboard](https://github.com/RiceCookerNFT/pulseboard)
+- **BTO Housing Decision Tool**  
+  Web app that helps Singapore users compare **BTO vs Resale** options using official housing data, affordability logic and trade-offs (price vs waiting time).  
+  _[Replace this link with your actual repo]_  
+  → https://github.com/RiceCookerNFT/**YOUR-BTO-REPO-NAME**
 
 (Automation toolkit repo coming soon.)
 
@@ -27,5 +28,5 @@ Right now I’m focused on:
 - Wiring up Dockerised apps to AWS infrastructure
 - Making my projects “production-looking” – diagrams, docs, monitoring, automation
 
-If you’re hiring for **junior DevOps / Cloud / Platform** and don’t mind someone who’s still learning but very hungry, feel free to reach out:
+If you’re hiring for **junior DevOps / Cloud / Platform** and don’t mind someone who’s still learning but very hungry, feel free to reach out:  
 kamjunming@gmail.com
